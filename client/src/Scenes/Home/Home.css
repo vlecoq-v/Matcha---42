@@ -1,0 +1,14 @@
+.AppBar {
+  background: transparent;
+  box-shadow: none;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 250px;
+  height: 100px;
+  margin: auto;
+  color: white;
+}
