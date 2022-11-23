@@ -26,7 +26,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "*",
     "prefix": "^1.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.2"
   }
 }
